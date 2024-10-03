@@ -1,4 +1,4 @@
 .metadata/
 **/*.class
 .recommenders/
-WorkspaceTDL2\ProyectoTDL2\.settings
+WorkspaceTDL2/ProyectoTDL2/.settings/*
